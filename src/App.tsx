@@ -1,5 +1,8 @@
+import FavoritePage from './pages/FavoritePage';
+import Home from './pages/HomePage';
+
 function App() {
-  return <h1>React TS</h1>;
+  return <Home />;
 }
 
 export default App;
